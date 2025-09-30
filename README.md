@@ -7,7 +7,7 @@
 
 ## 🔥 Github Stats
 
-![](https://komarev.com/ghpvc/?username=spencer-barrett&color=dc143c&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=spencer-barrett&color=dc143c&abbreviated=true) [![update README.md](https://github.com/spencer-barrett/spencer-barrett/actions/workflows/readme-workflow.yml/badge.svg)](https://github.com/spencer-barrett/spencer-barrett/actions/workflows/readme-workflow.yml)
 
 <!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/spencer-barrett"> -->
 
