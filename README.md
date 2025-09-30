@@ -1,4 +1,17 @@
-## Hi there 👋
+<!-- ![gitBanner(1)](https://github.com/user-attachments/assets/8738e7e3-440e-4509-a9b8-0b5307d90d6d) -->
+
+<!-- <img width="920" height="380" alt="gitBanner (920 x 380 px)" src="https://github.com/user-attachments/assets/9d848878-c813-479e-a9b1-b2e587c3c74a" /> -->
+<img width="100%" height="" alt="gitBanner (920 x 380 px)" src="https://github.com/user-attachments/assets/8738e7e3-440e-4509-a9b8-0b5307d90d6d" />
+
+## 🔥 Github Stats
+
+![](https://komarev.com/ghpvc/?username=spencer-barrett&color=dc143c&abbreviated=true)
+
+<!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/spencer-barrett"> -->
+
+<!-- ![Spencer's GitHub stats](https://github-readme-stats.vercel.app/api?username=spencer-barrett&show_icons=true&theme=shadow_red) -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=spencer-barrett&theme=shadow-red)](https://git.io/streak-stats)
 
 <!--
 **spencer-barrett/spencer-barrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
