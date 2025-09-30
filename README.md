@@ -13,7 +13,11 @@
 
 <!-- ![Spencer's GitHub stats](https://github-readme-stats.vercel.app/api?username=spencer-barrett&show_icons=true&theme=shadow_red) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=spencer-barrett&theme=shadow-red)](https://git.io/streak-stats)
+<p align="center">
+ <a href="https://git.io/streak-stats">
+   <img src="https://streak-stats.demolab.com?user=spencer-barrett&theme=shadow-red&border=FF3131&stroke=FF3131&ring=FF3131&fire=FF3131&currStreakNum=FF3131&sideNums=EBD9D9&currStreakLabel=EBD9D9&sideLabels=FF3131" alt="GitHub Streak" />
+ </a>
+</p>
 
 <!--
 **spencer-barrett/spencer-barrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
