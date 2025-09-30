@@ -15,7 +15,7 @@
 
 <p align="center">
  <a href="https://git.io/streak-stats">
-   <img src="https://streak-stats.demolab.com?user=spencer-barrett&theme=shadow-red&border=FF3131&stroke=FF3131&ring=FF3131&fire=FF3131&currStreakNum=FF3131&sideNums=EBD9D9&currStreakLabel=EBD9D9&sideLabels=FF3131" alt="GitHub Streak" />
+   <img src="https://streak-stats.demolab.com?user=spencer-barrett&theme=shadow-red&border=FF3131&stroke=FF3131&ring=FF3131&fire=FF3131&currStreakNum=FF3131&currStreakLabel=FF3131&sideLabels=FF3131" alt="GitHub Streak" />
  </a>
 </p>
 
